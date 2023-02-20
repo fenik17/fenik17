@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nikolay Fedorovskikh. I'm Java Software Engineer.
+My name is Nikolai Fedorovskikh. I'm Java Software Engineer.
 
 - I’m currently working on [Navixy](https://navixy.com) project at [SquareGPS](https://github.com/SquareGPS).
 - How to reach me: 
